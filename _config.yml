@@ -1,0 +1,28 @@
+name: zumpunzari
+favicon: null
+layout_spectrum: 0.2687557900790125
+typography_spectrum: 0.0005428646691143513
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8337834170088172
+  lightness: 0.4930912379641086
+  saturation: 0.42526481160894036
+  rhythmicContrast: 0.9582671523094177
+purpose: []
